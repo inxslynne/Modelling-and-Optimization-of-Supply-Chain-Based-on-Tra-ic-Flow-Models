@@ -31,6 +31,7 @@ This group project focuses on single-chain supply chains and examines both **dis
 ## Repository Structure
 
 
+```plaintext
 .
 ├── code/
 │   └── supply chain final version.ipynb  # Total code

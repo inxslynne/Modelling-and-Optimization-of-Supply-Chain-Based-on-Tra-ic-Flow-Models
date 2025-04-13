@@ -1,0 +1,2 @@
+# Modelling-and-Optimization-of-Supply-Chain-Based-on-Tra-ic-Flow-Models
+This report investigates single-chain supply chains through discrete and continuous models. The discrete model uses event-based simulation to capture detailed dynamics, while the continuous model applies a traffic flow approach for large-scale approximation. Results show the continuous model can closely match the discrete model with high accuracy. 
